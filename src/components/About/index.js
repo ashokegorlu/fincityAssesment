@@ -5,7 +5,7 @@ const About = () => (
   <div>
     <div className="about-container">
       <div>
-        <h1>Hello, my name is mounika</h1>
+        <h1>Hello, my name is Ashoke</h1>
         <p className="about-para">
           Aspiring Full Stack Developer | Learned at CCBP 4.0 Intensive | Html,
           CSS, Bootstrap, Python , javascript, Sql, Node js , React js
@@ -20,7 +20,7 @@ const About = () => (
         </div>
       </div>
       <img
-        src="https://res.cloudinary.com/djbs4yqbz/image/upload/v1704386752/project_img1_tijbdw.png"
+        src="https://res.cloudinary.com/dxt3w8y0z/image/upload/v1682921498/MyPic_m2uin2.jpg"
         alt="top"
         className="top-image"
       />
