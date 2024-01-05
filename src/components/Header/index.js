@@ -5,7 +5,7 @@ import "./index.css";
 const Header = () => (
   <nav className="nav-header">
     <div className="top-container">
-      <h1 className="name">Mounika Ch</h1>
+      <h1 className="name">Ashoke Gorlu</h1>
       <ul className="nav-menu">
         <li>
           <Link className="nav-link" to="/">
